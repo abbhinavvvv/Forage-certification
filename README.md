@@ -1,2 +1,7 @@
-# Forage-certification
-KPMG Data Analytics Consulting (Forage): Completed a virtual project on client data, focusing on quality checks, dashboards, and actionable insights. Tata Data Visualization (Forage): Built interactive BI dashboards, turning business data into insights for decision-making.
+## Certifications
+
+- **KPMG Data Analytics Consulting Virtual Experience (Forage)**  
+  Focused on data quality, analytics, and presenting insights in a consulting setting.  
+
+- **Tata Data Visualization: Empowering Business with Effective Insights (Forage)**  
+  Worked on creating impactful dashboards and business insights through data visualization.  
